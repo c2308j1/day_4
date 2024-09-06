@@ -1,4 +1,4 @@
-#Demo git project
+# Demo git project
 
 loremLorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda perferendis omnis placeat ad quibusdam voluptatum hic, ipsam quia. At optio repellendus maiores hic blanditiis mollitia? Obcaecati quos molestias consequuntur dolore.
 
